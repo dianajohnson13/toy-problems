@@ -7,4 +7,5 @@
 
 ## Ruby Solutions
   - Largest Prime Palindrome
+  - Eliminate Players
 
