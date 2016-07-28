@@ -3,7 +3,7 @@
 
 ## Javascript Solutions
   - Cleanup Words
-
+  - Fraction Converter
 
 ## Ruby Solutions
   - Largest Prime Palindrome
