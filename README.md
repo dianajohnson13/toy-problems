@@ -4,6 +4,7 @@
 ## Javascript Solutions
   - Cleanup Words
   - Fraction Converter
+  - Bubble Sort
 
 ## Ruby Solutions
   - Largest Prime Palindrome
