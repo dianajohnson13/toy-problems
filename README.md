@@ -5,8 +5,10 @@
   - Cleanup Words
   - Fraction Converter
   - Bubble Sort
+  - Longest Run
 
 ## Ruby Solutions
   - Largest Prime Palindrome
   - Eliminate Players
+  - Two Sum
 
