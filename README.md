@@ -11,4 +11,5 @@
   - Largest Prime Palindrome
   - Eliminate Players
   - Two Sum
+  - Most Common Letter
 
