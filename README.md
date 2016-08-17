@@ -12,4 +12,6 @@
   - Eliminate Players
   - Two Sum
   - Most Common Letter
-
+  - Swap Numbers
+  - Minimum Coins
+  - Not So Clever Sort
