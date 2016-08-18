@@ -15,3 +15,4 @@
   - Swap Numbers
   - Minimum Coins
   - Not So Clever Sort
+  - Sum of Integers 
