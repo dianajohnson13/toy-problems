@@ -6,6 +6,7 @@
   - Fraction Converter
   - Bubble Sort
   - Longest Run
+  - Rock Paper Scissors
 
 ## Ruby Solutions
   - Largest Prime Palindrome
