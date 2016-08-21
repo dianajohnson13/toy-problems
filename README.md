@@ -18,7 +18,7 @@
   - Not So Clever Sort
   - Sum of Integers 
 
-## Java
+## Java Solutions
   - Hello World ( not actually a problem :) ) 
   - Reverse and Add
   - Lowest Unique
