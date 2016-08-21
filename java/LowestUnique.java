@@ -9,7 +9,7 @@ import java.util.*;
 
 public class LowestUnique {
 
-    public Integer[] strToIntArray(String[] numStr) {
+    public Integer[] strArrToIntArr(String[] numStr) {
       int arrLength = numStr.length;
       Integer[] intArr = new Integer[arrLength];
       
@@ -53,7 +53,7 @@ public class LowestUnique {
     
     public static void main (String[] args) {
         LowestUnique newLowUnique = new LowestUnique();
-        Integer[] convertedNums = newLowUnique.strToIntArray(args);
+        Integer[] convertedNums = newLowUnique.strArrToIntArr(args);
         Integer result = newLowUnique.find_winner(convertedNums);
         System.out.println(result);
     }
