@@ -17,3 +17,8 @@
   - Minimum Coins
   - Not So Clever Sort
   - Sum of Integers 
+
+## Java
+  - Hello World ( not actually a problem :) ) 
+  - Reverse and Add
+  
