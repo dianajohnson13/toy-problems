@@ -7,6 +7,7 @@
   - Bubble Sort
   - Longest Run
   - Rock Paper Scissors
+  - Shortest Repetition
 
 ## Ruby Solutions
   - Largest Prime Palindrome
