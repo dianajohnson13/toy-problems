@@ -23,4 +23,5 @@
   - Hello World ( not actually a problem :) ) 
   - Reverse and Add
   - Lowest Unique
+  - Major Element
   
