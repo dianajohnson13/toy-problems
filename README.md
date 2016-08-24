@@ -25,4 +25,5 @@
   - Reverse and Add
   - Lowest Unique
   - Major Element
+  - Longest Word
   
