@@ -8,6 +8,7 @@
   - Longest Run
   - Rock Paper Scissors
   - Shortest Repetition
+  - Non Repeating Characters
 
 ## Ruby Solutions
   - Largest Prime Palindrome
