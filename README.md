@@ -13,6 +13,7 @@
   - Check Permutations
   - Triple Step
   - Contiguous Sum
+  - All Anagrams
 
 ## Ruby Solutions
   - Largest Prime Palindrome
