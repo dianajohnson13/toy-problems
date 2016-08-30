@@ -10,6 +10,9 @@
   - Shortest Repetition
   - Non Repeating Characters
   - Prime Tester
+  - Check Permutations
+  - Triple Step
+  - Contiguous Sum
 
 ## Ruby Solutions
   - Largest Prime Palindrome
