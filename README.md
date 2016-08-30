@@ -9,6 +9,7 @@
   - Rock Paper Scissors
   - Shortest Repetition
   - Non Repeating Characters
+  - Prime Tester
 
 ## Ruby Solutions
   - Largest Prime Palindrome
