@@ -14,6 +14,7 @@
   - Triple Step
   - Contiguous Sum
   - All Anagrams
+  - Power Set
 
 ## Ruby Solutions
   - Largest Prime Palindrome
