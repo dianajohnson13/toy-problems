@@ -15,6 +15,7 @@
   - Contiguous Sum
   - All Anagrams
   - Power Set
+  - Balanced Parenthesis
 
 ## Ruby Solutions
   - Largest Prime Palindrome
