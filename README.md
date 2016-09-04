@@ -16,6 +16,7 @@
   - All Anagrams
   - Power Set
   - Balanced Parenthesis
+  - Roman Numeral Translator
 
 ## Ruby Solutions
   - Largest Prime Palindrome
