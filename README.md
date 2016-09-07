@@ -17,6 +17,7 @@
   - Power Set
   - Balanced Parenthesis
   - Roman Numeral Translator
+  - Stepwise Word
 
 ## Ruby Solutions
   - Largest Prime Palindrome
