@@ -18,6 +18,7 @@
   - Balanced Parenthesis
   - Roman Numeral Translator
   - Stepwise Word
+  - Reduce String
 
 ## Ruby Solutions
   - Largest Prime Palindrome
