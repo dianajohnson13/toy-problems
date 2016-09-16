@@ -19,6 +19,7 @@
   - Roman Numeral Translator
   - Stepwise Word
   - Reduce String
+  - Shift N
 
 ## Ruby Solutions
   - Largest Prime Palindrome
